@@ -1,8 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
 html, body {
     text-align: center;
     background-color: black;
     color: #fff;
+    font-family: 'Playfair Display', serif;
   }
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+
 
   
 /* body {
@@ -24,6 +33,23 @@ html, body {
 }
 */
 
+.covid {
+    background-image: url("covid-bg-cover.jpg");
+    background-size: 400%;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.card {
+    height: 20rem;
+}
+
+.covid-card-text {
+    color:black;
+    background-color: #EEE;
+    border-radius: 5px;
+}
+
 .header-img{
     display: block;
     margin-left: auto;
@@ -32,6 +58,3 @@ html, body {
     padding-top: 100px;
 } 
 
-.page-title {
-    padding-bottom: 50px;
-}
