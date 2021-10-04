@@ -33,6 +33,10 @@ a:hover, a:visited, a:link, a:active
 }
 */
 
+.container {
+    min-height: calc(60vh - 50px);
+}
+
 .covid {
     background-image: url("covid-bg-cover.jpg");
     background-size: 400%;
@@ -58,3 +62,19 @@ a:hover, a:visited, a:link, a:active
     padding-top: 100px;
 } 
 
+
+.footer {
+    height: 10%;
+    background-color: #EEE;
+    padding-top: 20px;
+}
+
+.footer a {
+    text-decoration: none;
+    color: black;
+}
+
+.footer-text {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
