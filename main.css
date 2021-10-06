@@ -34,7 +34,7 @@ a:hover, a:visited, a:link, a:active
 */
 
 .container {
-    min-height: calc(60vh - 50px);
+    min-height: calc(60vh - 80px);
 }
 
 .covid {
