@@ -62,16 +62,20 @@ a:hover, a:visited, a:link, a:active
     padding-top: 100px;
 } 
 
+.header-sub-text{
+    color: #AEC9AF;
+}
 
 .footer {
     height: 10%;
-    background-color: #EEE;
+    background-color: #000;
     padding-top: 20px;
+    color: #FFF;
 }
 
 .footer a {
     text-decoration: none;
-    color: black;
+    color: #FFF;
 }
 
 .footer-text {
