@@ -44,6 +44,10 @@ a:hover, a:visited, a:link, a:active
     background-repeat: no-repeat;
 }
 
+.filler{
+    background-color: #1f1f1f;
+}
+
 .card {
     height: 20rem;
 }
@@ -52,6 +56,12 @@ a:hover, a:visited, a:link, a:active
     color:black;
     background-color: #EEE;
     border-radius: 5px;
+}
+
+.filler-card-text {
+    color:white;
+    border-radius: 5px;
+    float: left;
 }
 
 .header-img{
