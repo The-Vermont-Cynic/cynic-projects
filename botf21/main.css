@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap'); /* playfair display font */ 
+
+body{
+    background: rgb(167,210,51);
+    background: rgb(167,210,51);
+background: linear-gradient(180deg, rgba(167,210,51,1) 0%, rgba(79,155,66,1) 0%, rgba(0,106,80,1) 53%, rgba(28,79,67,1) 70%, rgba(54,54,54,1) 100%) fixed;
+}
+
+.title-block{
+    font-family: 'Playfair Display', serif;
+    padding-top: 100px;
+    color: #fff;
+}
