@@ -1,13 +1,40 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap'); /* playfair display font */ 
+@import url('https://fonts.googleapis.com/css2?family=Tinos&display=swap'); /* Tinos font */
+
+a:hover, a:visited, a:active, a:link {
+    text-decoration: none;
+    color: #000;
+}
 
 body{
-    background: rgb(167,210,51);
-    background: rgb(167,210,51);
-background: linear-gradient(180deg, rgba(167,210,51,1) 0%, rgba(79,155,66,1) 0%, rgba(0,106,80,1) 53%, rgba(28,79,67,1) 70%, rgba(54,54,54,1) 100%) fixed;
+    background: rgb(77,77,77);
+    background: linear-gradient(176deg, rgba(77,77,77,1) 0%, rgba(0,0,0,1) 100%) fixed;
+}
+
+.main-title{
+    color: #fff;
 }
 
 .title-block{
     font-family: 'Playfair Display', serif;
     padding-top: 100px;
+    color: #AEC9AF;
+    padding-bottom: 50px;
+}
+
+.article{
+    background-color: transparent;
+    border: solid white;
+    font-family: 'Tinos', serif;
+    padding: 25px;
+    border-radius: 15px;
     color: #fff;
+}
+
+.byline{
+    font-size: 14pt;
+}
+
+.article-title {
+    font-family: 'Playfair Display', serif;
 }
