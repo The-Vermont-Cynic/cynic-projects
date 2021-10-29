@@ -11,6 +11,12 @@ body{
     background: linear-gradient(176deg, rgba(77,77,77,1) 0%, rgba(0,0,0,1) 100%) fixed;
 }
 
+.return{
+    color: #fff;
+    padding-bottom: 20px;
+    font-family: 'Playfair Display', serif;
+}
+
 .main-title{
     color: #fff;
 }
@@ -39,4 +45,9 @@ body{
 .article-title {
     font-family: 'Playfair Display', serif;
      color: white;
+}
+
+.story-text{
+    color: #fff;
+    font-family: 'Tinos', serif;
 }
