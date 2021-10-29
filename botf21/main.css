@@ -23,18 +23,20 @@ body{
 }
 
 .article{
-    background-color: transparent;
-    border: solid white;
+    background-color: rgb(115,115,115);
+    border: solid #AEC9AF;
     font-family: 'Tinos', serif;
     padding: 25px;
     border-radius: 15px;
-    color: #fff;
+    color: white;
 }
 
 .byline{
     font-size: 14pt;
+    color: white;
 }
 
 .article-title {
     font-family: 'Playfair Display', serif;
+     color: white;
 }
