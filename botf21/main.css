@@ -37,6 +37,10 @@ body{
     color: white;
 }
 
+.article-container{
+    padding-bottom: 20px;
+}
+
 .byline{
     font-size: 14pt;
     color: white;
