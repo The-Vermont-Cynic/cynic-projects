@@ -44,10 +44,17 @@ body{
 
 .article-title {
     font-family: 'Playfair Display', serif;
-     color: white;
+    color: white;
 }
 
 .story-text{
     color: #fff;
     font-family: 'Tinos', serif;
 }
+
+.card {
+    background-color: #000;
+    color: #fff;
+    font-family: 'Tinos', serif;
+}
+
