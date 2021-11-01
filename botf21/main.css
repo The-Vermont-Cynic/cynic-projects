@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap'); /* playfair display font */ 
 @import url('https://fonts.googleapis.com/css2?family=Tinos&display=swap'); /* Tinos font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap'); /* Roboto Font */
 
 a:hover, a:visited, a:active, a:link {
     text-decoration: none;
@@ -54,6 +55,17 @@ body{
 .story-text{
     color: #fff;
     font-family: 'Tinos', serif;
+}
+
+.cutline{
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+}
+
+.dek{
+    color: #fff;
+    font-family: 'Tinos', serif;
+    font-size: 20px;
 }
 
 .card {
