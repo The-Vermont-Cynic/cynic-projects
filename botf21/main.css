@@ -47,6 +47,10 @@ body{
     color: white;
 }
 
+.byline-story{
+    font-size: 18px;
+}
+
 .article-title {
     font-family: 'Playfair Display', serif;
     color: white;
@@ -65,7 +69,7 @@ body{
 .dek{
     color: #fff;
     font-family: 'Tinos', serif;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 .card {
