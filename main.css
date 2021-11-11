@@ -45,10 +45,9 @@ a:hover, a:visited, a:link, a:active
 }
 
 .bot {
-    background-color: rgba(85,94,135,255);
-    background-image: url("botf21/img/uvm_seal.png");
-    background-position: top center;
-    background-size: 99%;
+    background-image: url("bot-bg.jpg");
+    background-size: 120%;
+    background-position: center center;
     background-repeat: no-repeat;
 }
 
